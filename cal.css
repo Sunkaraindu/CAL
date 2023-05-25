@@ -1,0 +1,31 @@
+body{
+    background-image: url(calc.webp);
+    background-size: cover;
+    color: azure;
+    font-size: 30px;
+    
+}
+h2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+table{
+ margin: auto;
+}
+input{
+    margin-left: 478px;
+    height: 30px;
+    width: 300px;
+    font-size: 15px;
+}
+button{
+    color:black;
+    background-color: bisque;
+    width: 75px;
+    height: 75px;
+    font-size: 20px;
+    
+}
+button:hover{
+    background-color: blueviolet;
+}
